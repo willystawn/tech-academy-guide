@@ -1,7 +1,20 @@
-{ 
+{
   "hints": [
-  "Buka module Data, tambahkan Entity bernama Room.",
-  "Tambahkan atribut Name (Text), Price (Decimal), IsAvailable (Boolean).",
-  "Gunakan Aggregate untuk mengambil data Room."
+    {
+      "id": "hotel-entity",
+      "message": "Gunakan tipe data Decimal untuk harga kamar, agar bisa digunakan dalam kalkulasi."
+    },
+    {
+      "id": "booking-validation",
+      "message": "Pastikan CheckOut lebih besar dari CheckIn sebelum menyimpan booking."
+    },
+    {
+      "id": "list-filter",
+      "message": "Gunakan expression `Hotel.Location = SelectedLocation` untuk menambahkan filter pencarian."
+    },
+    {
+      "id": "popup-notification",
+      "message": "Gunakan 'Feedback Message' widget untuk menampilkan pesan sukses."
+    }
   ]
 }
