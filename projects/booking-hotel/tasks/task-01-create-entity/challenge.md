@@ -34,7 +34,7 @@ const rooms = [
 ## ✨ Hasil yang Diharapkan
 
 Sebuah halaman web yang menampilkan tiga kamar dari data sampel, masing-masing dengan nama, tipe, harga, dan sebuah tombol "Edit".
-=======
+
 # 🏨 OutSystems Challenge: Booking Hotel App
 
 ## 🎯 Objective
@@ -85,4 +85,3 @@ Tambahkan elemen desain yang bersih (lihat `/challenge/assets/sample-ui.png`).
 - File `.oml` dari OutSystems
 - Screenshot dari setiap screen
 - Link deploy (jika dipublikasikan ke OutSystems Cloud)
->>>>>>> cdec9a30c4d55f5d97177941e277af72e244e00c
