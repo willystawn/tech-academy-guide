@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Tugas 1: Membuat Komponen Daftar Kamar (Room List)
 
 ## 🎯 Objektif
