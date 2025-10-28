@@ -1,7 +1,7 @@
-{
+{ 
   "hints": [
-    "Buka tab 'Data' di Service Studio.",
-    "Klik kanan pada 'Entities' dan pilih 'Add Entity'.",
-    "Pastikan tipe data untuk setiap atribut sudah benar."
+  "Buka module Data, tambahkan Entity bernama Room.",
+  "Tambahkan atribut Name (Text), Price (Decimal), IsAvailable (Boolean).",
+  "Gunakan Aggregate untuk mengambil data Room."
   ]
 }
