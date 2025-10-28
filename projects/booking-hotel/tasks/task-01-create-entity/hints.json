@@ -1,7 +1,6 @@
 {
   "hints": [
     {
-<<<<<<< HEAD
       "id": 1,
       "text": "Buat sebuah file komponen baru, misalnya `RoomList.jsx`. Jangan lupa untuk mengimpornya di `App.jsx` agar bisa ditampilkan."
     },
@@ -16,22 +15,6 @@
     {
       "id": 4,
       "text": "Untuk styling tabel atau kartu, gunakan kelas-kelas dari Tailwind CSS seperti `p-4`, `border`, `shadow-md`, dan `flex` untuk mengatur layout."
-=======
-      "id": "hotel-entity",
-      "message": "Gunakan tipe data Decimal untuk harga kamar, agar bisa digunakan dalam kalkulasi."
-    },
-    {
-      "id": "booking-validation",
-      "message": "Pastikan CheckOut lebih besar dari CheckIn sebelum menyimpan booking."
-    },
-    {
-      "id": "list-filter",
-      "message": "Gunakan expression `Hotel.Location = SelectedLocation` untuk menambahkan filter pencarian."
-    },
-    {
-      "id": "popup-notification",
-      "message": "Gunakan 'Feedback Message' widget untuk menampilkan pesan sukses."
->>>>>>> cdec9a30c4d55f5d97177941e277af72e244e00c
     }
   ]
 }
