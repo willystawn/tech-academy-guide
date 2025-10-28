@@ -1,7 +1,20 @@
 {
   "hints": [
-    "Buka tab 'Data' di Service Studio.",
-    "Klik kanan pada 'Entities' dan pilih 'Add Entity'.",
-    "Pastikan tipe data untuk setiap atribut sudah benar."
+    {
+      "id": 1,
+      "text": "Buat sebuah file komponen baru, misalnya `RoomList.jsx`. Jangan lupa untuk mengimpornya di `App.jsx` agar bisa ditampilkan."
+    },
+    {
+      "id": 2,
+      "text": "Di dalam komponen `RoomList`, definisikan data sampel `rooms` sebagai sebuah constant array."
+    },
+    {
+      "id": 3,
+      "text": "Gunakan metode `.map()` pada array `rooms` untuk me-render setiap item kamar menjadi elemen JSX. Ingat untuk memberikan `key` unik pada setiap elemen hasil map."
+    },
+    {
+      "id": 4,
+      "text": "Untuk styling tabel atau kartu, gunakan kelas-kelas dari Tailwind CSS seperti `p-4`, `border`, `shadow-md`, dan `flex` untuk mengatur layout."
+    }
   ]
 }
