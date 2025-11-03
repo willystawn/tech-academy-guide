@@ -4,6 +4,8 @@
 
 Buat sebuah komponen React yang menampilkan daftar kamar hotel dari data yang telah disediakan. Komponen ini harus menampilkan informasi utama setiap kamar dan menyediakan fungsionalitas dasar seperti tombol edit.
 
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+
 ## ✅ Kriteria Penerimaan (Acceptance Criteria)
 
 1.  **Tampilan Daftar:** Komponen berhasil menampilkan daftar kamar dalam bentuk tabel atau kartu (pilih salah satu).
